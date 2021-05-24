@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ...
 - 📫 Let's get to know each other:
   🤝 **Email:** baddiejaysworld@gmail.com
+  comando io muahahahahaha
 
 <!---
 baddiejay/baddiejay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
