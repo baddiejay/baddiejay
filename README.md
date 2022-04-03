@@ -2,8 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 📫 Let's get to know each other:
-  🤝 **Email:** baddiejaysworld@gmail.com
-  comando io muahahahahaha
+  🤝 **Email:** chiaracoppola99@gmail.com
 
 <!---
 baddiejay/baddiejay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
