@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @baddiejay, currently enrolled in a graduate program in computer engineering in Italy🧑‍🎓
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning circuit analysis 
 - 📫 Let's get to know each other:
   🤝 **Email:** chiaracoppola99@gmail.com
 
